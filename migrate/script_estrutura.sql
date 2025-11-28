@@ -1,4 +1,4 @@
-CREATE DATABASE bd_controleleite
+CREATE DATABASE bd_controleleite;
 
 USE bd_controleleite;
 
